@@ -6,6 +6,6 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
-  cout << "Yes I'm changing\n";
+  cout << "Yes I'm changing\n"
   return 0;
 }
